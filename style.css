@@ -1,0 +1,11 @@
+.header .row .col{
+    height: 100px;
+    background-color: #8893A0
+}
+.header .row .col h1{
+    color: black;
+font-size: 40px;
+}
+.photos .row img {
+    border-radius: 50%;
+}
